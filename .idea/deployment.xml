@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jaeehooo.n_ubuntu" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="jaeehooo.n_ubuntu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jaeehooon/PycharmProjects/gnn_study" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
